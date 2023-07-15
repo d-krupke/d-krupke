@@ -16,8 +16,8 @@ These challenges focus on hard problems in computational geometry and have provi
 In addition to my theoretical and coding expertise, I have led transformative initiatives at the TU Braunschweig, Algorithms Group, driving the transition from outdated techniques for algorithm engineering to a structured approach with modern methodologies.
 Drawing inspiration from various communities, including Experimental Algorithms, Machine Learning, Bioinformatics, and High-Performance Computing, I strive to increase the reproducibility, reusability, and automation in Algorithm Engineering.
 
-On this GitHub profile, you will find a collection of my projects that demonstrate my problem-solving abilities and practical implementations.
-Whether it's optimizing algorithms, developing tools, or exploring new techniques, I am constantly pushing the boundaries of what's possible.
+<!--On this GitHub profile, you will find a collection of my projects that demonstrate my problem-solving abilities and practical implementations.
+Whether it's optimizing algorithms, developing tools, or exploring new techniques, I am constantly pushing the boundaries of what's possible.-->
 
 Let's connect and collaborate on solving challenging problems, advancing algorithm engineering, and making an impact together.
 As a postdoc, I am currently open to research stays and collaborations to further expand my knowledge and contribute to cutting-edge research in the field.
