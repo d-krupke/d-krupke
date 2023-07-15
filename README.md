@@ -16,6 +16,9 @@ These challenges focus on hard problems in computational geometry and have provi
 In addition to my theoretical and coding expertise, I have led transformative initiatives at the TU Braunschweig, Algorithms Group, driving the transition from outdated techniques for algorithm engineering to a structured approach with modern methodologies.
 Drawing inspiration from various communities, including Experimental Algorithms, Machine Learning, Bioinformatics, and High-Performance Computing, I strive to increase the reproducibility, reusability, and automation in Algorithm Engineering.
 
+On this GitHub profile, you will primarily find developing tools and a few *experiments*.
+Most of my research is done with collaborators on institute repositories and, thus, do not appear here.
+If you are interested in my research, check out my [publications](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en) (though, publishing paper takes time and, thus, the list is often a year or more behind) or my [dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf) (which is of course also already over a year old, most chapters even multiple years).
 <!--On this GitHub profile, you will find a collection of my projects that demonstrate my problem-solving abilities and practical implementations.
 Whether it's optimizing algorithms, developing tools, or exploring new techniques, I am constantly pushing the boundaries of what's possible.-->
 
