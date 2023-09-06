@@ -3,7 +3,7 @@ PostDoc Researcher at the [Algorithms Group (Prof. Fekete), TU Braunschweig, Ger
 Welcome to my GitHub profile! I am an experienced algorithm engineer with a strong background in theoretical computer science.
 With a passion for solving complex (especially NP-hard) problems, I bring together the power of theory and practical implementation to deliver innovative solutions.
 
-Over the past 10 years, I have honed my skills in algorithm engineering, successfully applying a diverse range of techniques such as Mixed Integer Linear Programming, Convex Optimization, Constraint Programming, SAT-Solvers, Large Neighborhood Search, specialized Branch&Bound implementations, Dynamic Programming, Meta-Heuristics, Reinforcement Learning, and more.
+Over the past 10 years, I have honed my skills in algorithm engineering, successfully applying a diverse range of techniques such as Mixed Integer Linear Programming, Constraint Programming, SAT-Solvers, Large Neighborhood Search, specialized Branch&Bound implementations, Dynamic Programming, Meta-Heuristics, Reinforcement Learning, and more.
 These tools have enabled me to tackle challenging problems in various domains, including Robot Path Planning, Bioinformatics, Satellite Management, Assembly, and Swarm Robotics.
 See my [Google Scholar](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en) profile for a list of publications.
 
