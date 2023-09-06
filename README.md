@@ -1,4 +1,4 @@
-PostDoc Researcher at the [Algorithms Group (Prof. Fekete), TU Braunschweig, Germany](https://www.ibr.cs.tu-bs.de/alg/).
+**PostDoc Researcher at the [Algorithms Group (Prof. Fekete), TU Braunschweig, Germany](https://www.ibr.cs.tu-bs.de/alg/).**
 
 Welcome to my GitHub profile! I am an experienced algorithm engineer with a strong background in theoretical computer science.
 With a passion for solving complex (especially NP-hard) problems, I bring together the power of theory and practical implementation to deliver innovative solutions.
