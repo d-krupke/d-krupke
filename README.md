@@ -1,26 +1,37 @@
 **PostDoc Researcher at the [Algorithms Group (Prof. Fekete), TU Braunschweig, Germany](https://www.ibr.cs.tu-bs.de/alg/).**
+---
 
-Welcome to my GitHub profile! I am an experienced algorithm engineer with a strong background in theoretical computer science.
-With a passion for solving complex (especially NP-hard) problems, I bring together the power of theory and practical implementation to deliver innovative solutions.
+I am an experienced algorithm engineer with a background in theoretical computer science.
+I have a knack for tackling complex, especially NP-hard, problems by fusing theoretical rigor with practical implementation.
+My work has been recognized with multiple student and best paper awards.
 
-Over the past 10 years, I have honed my skills in algorithm engineering, successfully applying a diverse range of techniques such as Mixed Integer Linear Programming, Constraint Programming, SAT-Solvers, Large Neighborhood Search, specialized Branch&Bound implementations, Dynamic Programming, Meta-Heuristics, Reinforcement Learning, and more.
-These tools have enabled me to tackle challenging problems in various domains, including Robot Path Planning, Bioinformatics, Satellite Management, Assembly, and Swarm Robotics.
-See my [Google Scholar](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en) profile for a list of publications.
+### Skills 👩‍💻
 
-My academic journey is marked by outstanding achievements, including a [Dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf), Master's, and Bachelor's degrees, all awarded with top grades (Summa Cum Laude/"With Honors"/"With Honors").
-I have been recognized with multiple best paper awards (CIAC 2019, ALENEX23) and esteemed student accolades for exceptional accomplishments.
+#### Technical Skills 💡
+- **Combinatorial Optimization**: Expert in solving NP-hard problems using advanced techniques such as MIP, CP, SAT, and SOCP.
+- **Approximation & Meta-heuristics**: Demonstrated skill in achieving near-optimal solutions via meta-heuristics and large neighborhood search.
+- **Algorithmic Foundations**: Solid grounding in theoretical computer science and algorithmic concepts.
+- **Programming & Performance**: Proficient in Python and C++, with a focus on performance optimization and modular code architecture.
+- **Data Analysis & Visualization**: Skilled in data management, evaluation, and visualization techniques.
+- **Machine Learning**: Basic familiarity with ML techniques; experience in applying them in select research projects.
 
-As a co-organizer and technical lead for the [CG:SHOP Challenges](https://cgshop.ibr.cs.tu-bs.de/), I have actively contributed to the advancement of algorithm engineering.
-These challenges focus on hard problems in computational geometry and have provided a platform for collaboration, innovation, and knowledge sharing within the community.
+#### Research Skills 📚
+- **Interdisciplinary Collaboration**: Proven track record in robotics, bioinformatics, automotive industry, and satellite management.
+- **Theory-Practice Bridge**: Specialized in connecting theoretical insights with practical applications.
+- **Creativity & Curiosity**: Highly creative and curious about exploring and integrating new techniques.
 
-In addition to my theoretical and coding expertise, I have led transformative initiatives at the TU Braunschweig, Algorithms Group, driving the transition from outdated techniques for algorithm engineering to a structured approach with modern methodologies.
-Drawing inspiration from various communities, including Experimental Algorithms, Machine Learning, Bioinformatics, and High-Performance Computing, I strive to increase the reproducibility, reusability, and automation in Algorithm Engineering.
+#### Soft Skills 🤝
+- **Teaching & Presentation**: Capable of teaching and presenting intricate topics in an understandable manner.
+- **Project Management**: Experienced in managing diverse projects and student teams.
+- **Public Engagement**: Successfully organized multiple public competitions, showcasing a commitment to community outreach.
 
-On this GitHub profile, you will primarily find tools I developed and a few experimental projects.
-Most of my research is done with collaborators on institute repositories and, thus, do not appear here.
-If you are interested in my research, check out my [publications](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en) (though, publishing papers takes time and, thus, the list is often a year or more behind) or my [dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf) (which is of course also already over a year old, most chapters even multiple years).
-<!--On this GitHub profile, you will find a collection of my projects that demonstrate my problem-solving abilities and practical implementations.
-Whether it's optimizing algorithms, developing tools, or exploring new techniques, I am constantly pushing the boundaries of what's possible.-->
+---
 
-Let's connect and collaborate on solving challenging problems, advancing algorithm engineering, and making an impact together.
-As a postdoc, I am currently open to research stays and collaborations to further expand my knowledge and contribute to cutting-edge research in the field.
+- [📖 Publications](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en)
+- [🎓 Dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf)
+
+---
+
+🤝 **Let's Connect!**
+
+I am open to research stays and collaborative opportunities to broaden my expertise and contribute to groundbreaking research. Let's work together to solve challenging problems and make a lasting impact.
