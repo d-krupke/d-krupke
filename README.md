@@ -18,8 +18,8 @@ My work has been recognized with multiple student and best paper awards.
 - **Machine Learning**: Basic familiarity with ML techniques; experience in applying them in select research projects.
 
 #### Research Skills 📚
-- **Interdisciplinary Collaboration**: Proven track record in robotics, bioinformatics, automotive industry, and satellite management.
 - **Theory-Practice Bridge**: Specialized in connecting theoretical insights with practical applications.
+- **Interdisciplinary Collaboration**: Proven track record in robotics, bioinformatics, automotive industry, and satellite management.
 - **Creativity & Curiosity**: Highly creative and curious about exploring and integrating new techniques.
 
 #### Soft Skills 🤝
