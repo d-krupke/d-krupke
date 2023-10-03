@@ -3,7 +3,7 @@
 
 I am an experienced algorithm engineer with a background in theoretical computer science.
 I have a knack for tackling complex, especially NP-hard, problems by fusing theoretical rigor with practical implementation.
-My work has been recognized with multiple student and best paper awards.
+My work has been recognized with best paper (CIAC, ALENEX) and student awards.
 
 ---
 
