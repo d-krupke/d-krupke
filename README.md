@@ -25,7 +25,7 @@ My work has been recognized with multiple student and best paper awards.
 #### Soft Skills 🤝
 - **Teaching & Presentation**: Capable of teaching and presenting intricate topics in an understandable manner.
 - **Project Management**: Experienced in managing diverse projects and student teams.
-- **Public Engagement**: Successfully organized multiple public competitions, showcasing a commitment to community outreach.
+- **Public Engagement**: Co-Organizer and technical lead of the [Geometric Optimization Challenges at SoCG](https://cgshop.ibr.cs.tu-bs.de/) for multiple years, showcasing a commitment to community outreach.
 
 ---
 
