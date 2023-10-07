@@ -10,8 +10,8 @@ My work has been recognized with best paper (CIAC, ALENEX) and student awards.
 ### Skills 👩‍💻
 
 #### Technical Skills 💡
-- **Combinatorial Optimization**: Expert in solving NP-hard problems using advanced techniques such as MIP, CP, SAT, and SOCP.
-- **Approximation & Meta-heuristics**: Demonstrated skill in achieving near-optimal solutions via meta-heuristics and LNS.
+- **Combinatorial Optimization**: Expert in solving NP-hard problems using advanced techniques such as MIP, CP, SAT, BnB, and SOCP.
+- **Approximation & Meta-heuristics**: Demonstrated skill in achieving near-optimal solutions via approximation algorithms, meta-heuristics, and LNS-variants.
 - **Algorithmic Foundations**: Solid grounding in theoretical computer science and algorithmic concepts.
 - **Programming & Performance**: Proficient in Python and C++, with a focus on performance optimization and modular code architecture.
 - **Data Analysis & Visualization**: Skilled in data management, evaluation, and visualization techniques.
