@@ -29,8 +29,9 @@ My work has been recognized with best paper (CIAC, ALENEX) and student awards.
 
 ---
 
-- [📖 Publications](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en)
-- [🎓 Dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf)
+| [🔬 Research](https://krupke.cc/projects/) | [📖 Publications](https://scholar.google.de/citations?user=rZ4784MAAAAJ&hl=en) | [🎓 Dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf) |
+|:--------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| Explore my ongoing research projects. | Discover my published works. | My dissertation for a coherrent sample of my work (2017-2022). |
 
 ---
 
