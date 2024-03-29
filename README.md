@@ -10,22 +10,21 @@ My work has been recognized with best paper (CIAC, ALENEX) and student awards.
 ### Skills 👩‍💻
 
 #### Technical Skills 💡
-- **Combinatorial Optimization**: Expert in solving NP-hard problems using advanced techniques such as MIP, CP, SAT, BnB, and SOCP.
-- **Approximation & Meta-heuristics**: Demonstrated skill in achieving near-optimal solutions via approximation algorithms, meta-heuristics, and LNS-variants.
-- **Algorithmic Foundations**: Solid grounding in theoretical computer science and algorithmic concepts.
-- **Programming & Performance**: Proficient in Python and C++, with a focus on performance optimization and modular code architecture.
-- **Data Analysis & Visualization**: Skilled in data management, evaluation, and visualization techniques.
-- **Machine Learning**: Basic familiarity with ML techniques; experience in applying them in select research projects.
+- **Combinatorial Optimization**: Proficient in solving NP-hard problems to optimality using techniques like Mixed Integer Programming, Constraint Programming, custom branch-and-bound algorithms, SAT-solvers, and Second Order Cone Programming.
+- **Approximation & Meta-heuristics**: Skilled in finding near-optimal solutions via approximation algorithms, meta-heuristics, and LNS-variants.
+- **Algorithmic Foundations**: Strong background in theoretical computer science, with a comprehensive understanding of algorithmic concepts and their practical applications, such as complexity, approximation, and graph theory.
+- **Programming & Performance**: Adept in writing maintainable Python and C++ code for complex algorithms, with expertise in performance tuning and modularization. Check out my repositories for examples.
+- **Data Analysis & Visualization**: Capable of managing, evaluating, and quality-checking complex data, as well as visualizing data sets for insights and decision-making. Refer to my [dissertation](https://krupke.cc/assets/pdf/dissertation_veroeffentlichung.pdf) for exemplary empirical evaluations.
+- **Machine Learning**: Familiar with machine learning techniques and have applied them successfully in research projects. Eager to explore their potential to augment classical algorithms, although this is neither a primary focus nor an area of expertise.
 
 #### Research Skills 📚
-- **Theory-Practice Bridge**: Specialized in connecting theoretical insights with practical applications.
-- **Interdisciplinary Collaboration**: Proven track record in robotics, bioinformatics, automotive industry, and satellite management.
-- **Creativity & Curiosity**: Highly creative and curious about exploring and integrating new techniques.
+- **Theory-Practice Bridge**: Skillful in bridging the gap between theoretical computer science and practical implementation, highlighted by interdisciplinary collaborations and consultancy.
+- **Interdisciplinary Collaboration**: Extensive involvement in projects across diverse fields such as robotics, bioinformatics, automotive, and satellite management.
+- **Creativity & Curiosity**: Demonstrated curiosity and creativity in learning and combining new techniques, as evidenced by the diverse techniques used in my dissertation and the variety of projects undertaken.
 
 #### Soft Skills 🤝
-- **Teaching & Presentation**: Capable of teaching and presenting intricate topics in an understandable manner.
-- **Project Management**: Experienced in managing diverse projects and student teams.
-- **Public Engagement**: Co-Organizer and technical lead of the [Geometric Optimization Challenges at SoCG](https://cgshop.ibr.cs.tu-bs.de/) for multiple years, showcasing a commitment to community outreach.
+- **Teaching & Presentation**: Proficient in teaching and presenting complex topics, as proven by the positive evaluation of my lecture on algorithm engineering and the popularity of my online material.
+- **Project Management**: Experienced in managing multiple projects and student teams concurrently, as evidenced by the number of successfully completed projects.
 
 ---
 
