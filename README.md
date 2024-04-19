@@ -7,7 +7,7 @@ My work has been recognized with best paper (CIAC, ALENEX) and student awards.
 
 ---
 
-### Skills 👩‍💻
+### Skills
 
 #### Technical Skills 💡
 - **Combinatorial Optimization**: Proficient in solving NP-hard problems to optimality using techniques like Mixed Integer Programming, Constraint Programming, custom branch-and-bound algorithms, SAT-solvers, and Second Order Cone Programming.
