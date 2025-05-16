@@ -2,14 +2,13 @@
 ## PostDoc Researcher & Freelance Algorithm Engineer
 [TU Braunschweig, Algorithms Group (Prof. Fekete)](https://www.ibr.cs.tu-bs.de/alg/)
 
----
-I am a one-man-army in algorithm engineering, specializing in solving NP-hard combinatorial optimization problems by combining techniques from Mixed Integer Programming, Constraint Programming, SAT solvers, graph algorithms, and meta-heuristics.
-My key strength is in my full-stack expertise, seamlessly integrating theoretical computer science, operations research, mathematical optimization, data science, and robust software engineering.
-I have gained experience across many projects in academia and also industry, and I am always open to further opportunities that let me deepen and broaden my skill set.
+I research, teach, and consult in algorithm engineering, specializing in NP-hard combinatorial optimization problems by leveraging Mixed Integer Programming, Constraint Programming, SAT solvers, graph algorithms, and meta-heuristics.
+My key strength is in my full-stack expertise, blending theoretical computer science, operations research, mathematical optimization, data science, and robust software engineering.
+In my roles at the university and as a freelance consultant, I have successfully applied my skills across diverse projects, and I am always open to further opportunities that let me deepen and broaden my skill set.
 
 **How my combined skills add value:**
 
-* **Theoretical Computer Science & Algorithm Engineering:** My background enables me to abstract problems, identify their computational complexity classes, and recognize practical implications beyond worst-case analyses. I know when to trust O-notation, and when not.
+* **Theoretical Computer Science & Algorithm Engineering:** My background enables me to abstract problems, identify their complexities, and recognize practical implications beyond worst-case analyses. I know when to trust O-notation, and when not.
 * **Mathematical Optimization & Software Engineering:** I efficiently translate problems into mathematical formulations and troubleshoot solver performance. I also employ Test-Driven Development and strong software engineering practices to ensure robust, maintainable code, minimizing hidden bugs and maximizing agility.
 * **Operations Research & Practical Deployment:** My consulting experience enables me to adapt theoretical algorithms effectively to real-world scenarios, smoothly transitioning between theoretical abstractions and practical deployments (e.g., Linux servers, CI/CD, Docker).
 * **Generalist Insight:** Familiarity with various optimization techniques allows me to choose the most suitable tools, avoid biases toward particular methods, and creatively misuse techniques to solve unconventional challenges effectively.
